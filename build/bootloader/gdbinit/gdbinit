@@ -1,0 +1,2 @@
+source /home/miltonmalettta_p/esp/esp32cam_project/build/bootloader/gdbinit/symbols
+source /home/miltonmalettta_p/esp/esp32cam_project/build/bootloader/gdbinit/connect

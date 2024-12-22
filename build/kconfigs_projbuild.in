@@ -1,0 +1,6 @@
+source "/home/miltonmalettta_p/esp/esp-idf/components/bootloader/Kconfig.projbuild"
+source "/home/miltonmalettta_p/esp/esp-idf/components/esp_app_format/Kconfig.projbuild"
+source "/home/miltonmalettta_p/esp/esp-idf/components/esp_rom/Kconfig.projbuild"
+source "/home/miltonmalettta_p/esp/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "/home/miltonmalettta_p/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+source "/home/miltonmalettta_p/esp/esp32cam_project/components/micro_ros/Kconfig.projbuild"
